@@ -3,5 +3,8 @@ usng namespace std;
 int main()
 {
 cout<<"The sum of two numbers are"<<"a+b"<<endl;
+cout<<"The subtraction of two numbers are"<<"a-b"<<endl;
+
 return 0;
+
 }
