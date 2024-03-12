@@ -1,0 +1,7 @@
+#include <io stream>
+usng namespace std;
+int main()
+{
+cout<<"The sum of two numbers are"<<"a+b"<<endl;
+return 0;
+}
