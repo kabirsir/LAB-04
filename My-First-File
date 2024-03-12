@@ -4,7 +4,7 @@ int main()
 {
 cout<<"The sum of two numbers are"<<"a+b"<<endl;
 cout<<"The subtraction of two numbers are"<<"a-b"<<endl;
-
+cout<<"The product of two numbers are"<<"a*b"<<endl;
 return 0;
 
 }
